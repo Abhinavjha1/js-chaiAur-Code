@@ -26,4 +26,6 @@ console.table([accountEmail,accountId,accountName,accountCity])
 
 */
 
+// use log and press enter 
+// it will automatically writes down to console.log()
 
